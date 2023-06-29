@@ -1,24 +1,25 @@
 # Projeto Alura Books
-Site fictício para vendas de livros.
-<br><br>
-<img width="1440" alt="Captura de Tela 2023-06-25 às 11 27 16" src="https://github.com/nayrabra/alura-books/assets/102299426/16462205-32e9-48d2-b340-4c520481c355">
 
-## Responsivo para:
-* Celular
+Este site foi desenvolvido para a venda de livros fictícios. Um destaque do design é o carrossel implementado utilizando a biblioteca JavaScript Swiper, que permite uma navegação suave e intuitiva pelos diferentes livros disponíveis.
 
-* Tablet
+|:placard: Vitrine.Dev |                                         | 
+| -------------------- | ----------------------------------------|
+| :sparkles: Nome      | **Alura Books**                         |
+| :label: Tecnologias  | HTML, CSS, Swiper JS                    |
+| :rocket: URL         | https://alura-books-nayrabra.vercel.app/|
+| 🧰 Propriedades      | Flex-box                                |
+| 💻 Responsividade    | Celular, Tablet e Desktop               |
 
-* Desktop
+<img width="1000" alt="alurabooks" src="https://github.com/nayrabra/alura-books/assets/102299426/16462205-32e9-48d2-b340-4c520481c355#vitrinedev">
 
-## Ferramentas utilizadas:
+## Versão Mobile:
+<img width="196" alt="alurabooks-mobile" src="https://github.com/nayrabra/alura-books/assets/102299426/120ed62d-a36f-49c3-beb9-31a6ca323b9f">
+<img width="196" alt="alurabooks-mobile" src="https://github.com/nayrabra/alura-books/assets/102299426/00b0dae7-2b72-4d7d-a36b-53874b14bd74">
 
-* HTML
+## Feito por:
 
-* CSS
+**Nayra Braga Barbosa**
 
-* Flex-box
+Linkedin: https://www.linkedin.com/in/nayra-barbosa/
 
-* Biblioteca JS Swiper
-
-### Link para acesso:
-* https://alura-books-seven-pied.vercel.app/
+*Página desenvolvida como resultado de um estudo pelo curso Alura.*
